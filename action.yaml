@@ -15,7 +15,7 @@ runs:
       with:
         path: ipxe
         repository: ipxe/ipxe
-        ref: f24a2794e1b527e45efbbcad1c272f176f3d9df0
+        ref: 9062544f6a0c69c249b90d21a08d05518aafc2ec
         fetch-depth: 0 # we need the entire history to build iPXE
 
     - name: Setup Go
